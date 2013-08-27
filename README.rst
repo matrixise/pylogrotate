@@ -15,7 +15,7 @@ Installation
 
 .. code-block:: bash
 
-    git clone git://github.com/matrixise/pylogrotate
+    git clone git://github.com/matrixise/pylogrotate.git
 
     virtualenv ~/.virtualenvs/pylogrotate
     source ~/.virtualenvs/pylogrotate
